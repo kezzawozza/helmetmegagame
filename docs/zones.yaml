@@ -2061,7 +2061,7 @@ zones:
               abandoned-camp-shroom-mound:
                 name: Shroom Mound
                 description: >-
-                  Nearby to the former campsite are mounds of Earth have been piled up, with colonies of bright red mushrooms flourishing atop them. Clearly whatever is buried here is greatly to the mushroom's preference.
+                  Nearby to the former campsite mounds of earth have been piled up, with colonies of bright red mushrooms flourishing atop them. Clearly whatever is buried here is greatly to the mushroom's preference.
                 # Deep Morels, scattered by hand (docs/systemdocs/COOKING.md). Raw they are a bad night; cooked they are one of the better things in the game, and they only grow down here.
                 stash:
                   items:
