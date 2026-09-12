@@ -1519,7 +1519,7 @@ desires:
     families: [theft]
     requires:
       anyTags: [corrupt]
-      anyRoles: [cerberus, sheriff]
+      anyRoles: [cerberus, sheriff, incarn]
 
   cook-a-lavish-meal:
     name: Cook a lavish meal
@@ -1629,7 +1629,7 @@ desires:
     families: [duty, theft]
     requires:
       anyTags: [corrupt]
-      anyRoles: [cerberus, sheriff]
+      anyRoles: [cerberus, sheriff, incarn]
 
   sell-a-cerberon-secret:
     name: "Sell Cerberon information or equipment"
@@ -1637,7 +1637,7 @@ desires:
     families: [betrayal, theft]
     requires:
       anyTags: [corrupt]
-      anyRoles: [cerberus, sheriff]
+      anyRoles: [cerberus, sheriff, incarn]
 
   shake-down-a-merchant:
     name: Attack and loot the Merchant.
@@ -1645,7 +1645,7 @@ desires:
     families: [theft, cruelty]
     requires:
       anyTags: [corrupt]
-      anyRoles: [cerberus, sheriff]
+      anyRoles: [cerberus, sheriff, incarn]
 
   pocket-60:
     name: Hold 60 ⬢/¢ that was never yours
@@ -1654,7 +1654,7 @@ desires:
     families: [theft]
     requires:
       anyTags: [corrupt]
-      anyRoles: [cerberus, sheriff]
+      anyRoles: [cerberus, sheriff, incarn]
 
   # Brave (T: brave)
   stand-your-ground-alone:
